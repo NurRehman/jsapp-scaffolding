@@ -1,14 +1,7 @@
-## What is This?
+## RequireJS Modular approach?
 
-Switching to a more modular approach to writing JavaScript is unfortunately a more difficult process than we might hope. Once you understand the concept of AMD, you then have to figure out the logistics.
 
-- How do you install RequireJS?
-- What about non-AMD libraries and frameworks?
-- What about dependency management?
-- What about optimization or build processes (concatenation, minification)?
-- What about configuration?
-
-This repo, along with the associated video tutorial on Nettuts+ should give you an excellent start. Also, at some point, be sure to consider Yeoman with RequireJS support.
+This repo, should give you an excellent start. Also, at some point, be sure to consider Yeoman with RequireJS support.
 
 ## Setup
 
