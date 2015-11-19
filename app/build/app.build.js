@@ -1,9 +1,9 @@
 ({
-  appDir: "../",
-  baseUrl: "scripts",
-  dir: "../../dist",
-  name: 'main',
-  mainConfigFile: '../scripts/main.js',
-  optimizeCss: 'standard'
-})
+	appDir: "../",
+	baseUrl: "scripts",
+	dir: "../../dist",
+	mainConfigFile: "../scripts/main.js",
+	name: "main",
+	optimizeCss: "standard"
 
+})
